@@ -1,1 +1,29 @@
-/*  your css code here. If applicable */
+*{
+	padding:0px;
+	margin:0px;
+	color:white;
+	background-color:grey;
+}
+h1{
+	text-align:center;
+}
+p{
+	margin:15px;
+}
+ol{
+	margin-left:40px;
+	padding-left:20px;
+}
+ol>li{
+	margin-bottom:5px;
+}
+ul{
+	margin-top:20px;
+	margin-left:60px;
+	padding-left:20px;
+}
+ul>li{
+	margin-bottom:5px;
+	list-decoration-;
+}
+
